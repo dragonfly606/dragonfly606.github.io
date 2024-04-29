@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Longfei Yan"
-  avatar           : "images/test_avatar.png"
+  name             : "Longfei Yan (颜龙飞)"
+  avatar           : "images/avatar.png"
   bio              : "HUST"
   location         : "Wuhan, China"
   employer         :
