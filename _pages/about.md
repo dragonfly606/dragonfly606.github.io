@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Master student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by Prof. [Yihua Tan](https://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm). 
+
 Previously, I got my B.Eng degrees (Outstanding Graduates) from [Central South University](https://en.csu.edu.cn/). 
+
 My research interests lie in 3D computer vision, autonomous driving and generative artificial intelligence. Currently I am focusing on monocular 3D object detection.
 
 <!--
@@ -45,9 +47,11 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+<!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
 - *2022.09 -     Now*, Master, Huazhong University of Science and Technology, Wuhan. 
