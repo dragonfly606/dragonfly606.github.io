@@ -39,7 +39,7 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 **Longfei Yan**, Pei Yan, Shengzhou Xiong, Xuanyu Xiang, Yihua Tan
 
 [**Project**](https://github.com/elvintanhust/MonoCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
 
