@@ -39,7 +39,7 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 
 **Longfei Yan**, Pei Yan, Shengzhou Xiong, Xuanyu Xiang, Yihua Tan
 
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.</i>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
 
 [**Code**](https://github.com/elvintanhust/MonoCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
