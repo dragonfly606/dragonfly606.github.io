@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by Prof. [Yihua Tan](https://faculty.hust.edu.cn/tanyihua/en/index.htm). 
+# 🧐 About Me
+I am a Master's student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by Prof. [Yihua Tan](https://faculty.hust.edu.cn/tanyihua/en/index.htm). 
 
 Previously, I got my B.Eng degrees (Outstanding Graduates) from [Central South University](https://en.csu.edu.cn/). 
 
