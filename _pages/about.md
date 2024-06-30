@@ -24,7 +24,7 @@ Previously, I got my B.Eng degrees (Outstanding Graduates) from [Central South U
 
 My research interests lie in 3D computer vision, autonomous driving and generative artificial intelligence. Currently I am focusing on monocular 3D object detection.
 
-<font color="red">My research credo:</font> (i) **enthusiasm**; (ii) **optimism**; (iii) **imagination**.
+$\color{red}{My research credo}$ (i) Enthusiasm; (ii) Optimism; (iii) Imagination.
 
 <!--
 # 🔥 News
