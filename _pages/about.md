@@ -74,4 +74,4 @@ My research interests lie in 3D computer vision, autonomous driving and generati
  - International Conference on Machine Learning (ICML) 2024
 
 # 📄 CV
-[Download CV]()
+[Link](https://dragonfly606.github.io/Longfei_cv.pdf)
