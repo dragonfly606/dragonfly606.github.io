@@ -72,3 +72,6 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 # 🌱 Services
 ### Conference Reviewers
  - International Conference on Machine Learning (ICML) 2024
+
+# 📄 CV
+[Download CV]()
