@@ -48,16 +48,16 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MonoCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/xuanyu_TGRS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MonoCD: Monocular 3D Object Detection with Complementary Depths](https://arxiv.org/abs/2404.03181)
+[Cloud-Guided Fusion with SAR-to-Optical Translation for Thick
+ Cloud Removal](https://dragonfly606.github.io/)
 
-**Longfei Yan**, Pei Yan, Shengzhou Xiong, Xuanyu Xiang, Yihua Tan
+Xuanyu Xiang, Yihua Tan, **Longfei Yan**
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*
+*IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024.*
 
-[**Code**](https://github.com/elvintanhust/MonoCD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
