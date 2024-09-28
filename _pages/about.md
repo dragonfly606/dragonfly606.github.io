@@ -52,7 +52,7 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 <div class='paper-box-text' markdown="1">
 
 [Cloud-Guided Fusion with SAR-to-Optical Translation for Thick
- Cloud Removal](https://dragonfly606.github.io/)
+ Cloud Removal](https://ieeexplore.ieee.org/document/10605849)
 
 Xuanyu Xiang, Yihua Tan, **Longfei Yan**
 
