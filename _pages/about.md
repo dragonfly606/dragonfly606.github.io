@@ -29,6 +29,7 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 I was awarded the National Scholarship.
+- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2024.
 
 # 📝 Publications 
 
