@@ -28,7 +28,7 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 I was awarded the National Scholarship.
+- *2024.12*: &nbsp;🎉🎉 I was awarded the National Scholarship.
 
 # 📝 Publications 
 
