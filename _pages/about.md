@@ -26,11 +26,10 @@ My research interests lie in 3D computer vision, autonomous driving and generati
 
 <p><span style="color:red;">My research credo: </span>(i) Passion; (ii) Optimism; (iii) Creativity; (iv) Diligence. </p>
 
-<!--
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
